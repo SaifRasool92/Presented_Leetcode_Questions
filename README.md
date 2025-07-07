@@ -8,7 +8,7 @@
 **[326. Power of Three](https://leetcode.com/problems/power-of-three/description/)**  (easy)  
 **[342. Power of Four](https://leetcode.com/problems/power-of-four/description/)**  (easy)  
 **[2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/description/)**  (easy)  
-**[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)**  (easy)
+**[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)**  (easy)  
 **[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)**  (easy)  
 **[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)**  (easy)  
 **[1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)**  (easy)  
